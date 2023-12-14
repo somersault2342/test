@@ -4,18 +4,14 @@ void sayHi() {
     printf("Hello World!\n");
 }
 
-void uselessFunction() {
-    printf("This function is useless\n");
+void sayBranch() {
+    printf("This is going to be on the new branch\n");
 }
 
 int main() {
     
     sayHi();
-    //this was added on github
+    sayBranch();
+
     return 0;
 }
-
-
-
-
-//this comment is completely useless
