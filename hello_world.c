@@ -7,6 +7,6 @@ void sayHi() {
 int main() {
     
     sayHi();
-
+    //this was added on github
     return 0;
 }
